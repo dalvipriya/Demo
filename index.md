@@ -17,6 +17,7 @@ Below is the screenshot of the content.
 | wink | :wink: |
 | Laugh | :rofl: |
 
-
+# References
+![Click here to view the User Manual](File Name)
 
 
