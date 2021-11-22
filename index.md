@@ -30,7 +30,7 @@ Below is the screenshot of the content.
 | Laugh | :rofl: |
 
 | Emoji | Syntax |
-|-------| --------|
+|-------|--------|
 | Smile  | :smile: |
 | wink | :wink: |
 | Laugh | :rofl: |
