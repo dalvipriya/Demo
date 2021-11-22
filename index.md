@@ -18,6 +18,10 @@ Below is the screenshot of the content.
 | Laugh | :rofl: |
 
 # References
-![Click here to view the User Manual](File Name)
+![Click here to view the User Manual](DDSYOverview.pdf)
 
+# External Links
 
+![Link #1](https://github.github.com/gfm/)
+
+![Link #2](https://guides.github.com/features/mastering-markdown/)
