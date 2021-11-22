@@ -25,14 +25,14 @@ Below is the screenshot of the content.
 # Emojis in GitHub
 | Emoji | Syntax |
 |-------|--------|
-| Smile |  :smile: |
+| Smile | :smile: |
 | wink | :wink: |
 | Laugh | :rofl: |
 
 | Emoji | Syntax |
 |-------|--------|
-| Smile  | :smile: |
-| wink | :wink: |
+| Smile | :smile: |
+| Wink | :wink: |
 | Laugh | :rofl: |
 
 # References
