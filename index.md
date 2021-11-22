@@ -1,13 +1,13 @@
 # Table of Contents
-![Introduction to GitHub](#Introduction)
+[Introduction to GitHub](#introduction)
 
-![Writing on GIT](#Writing-on-GIT)
+[Writing on GIT](#writing-on-git)
 
-![Emojis](#Emojis-in-GitHub)
+[Emojis](#emojis-in-github)
 
-![References](#References)
+[References](#references)
 
-![External Links](#External-Links)
+[External Links](#external-links)
 
 
 # Introduction
@@ -30,10 +30,10 @@ Below is the screenshot of the content.
 | Laugh | :rofl: |
 
 # References
-![Click here to view the User Manual](DDSYOverview.pdf)
+[Click here to view the User Manual](DDSYOverview.pdf)
 
 # External Links
 
-![Link #1](https://github.github.com/gfm/)
+[Link #1](https://github.github.com/gfm/)
 
-![Link #2](https://guides.github.com/features/mastering-markdown/)
+[Link #2](https://guides.github.com/features/mastering-markdown/)
