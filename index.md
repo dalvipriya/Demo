@@ -24,8 +24,8 @@ Below is the screenshot of the content.
 
 # Emojis in GitHub
 | Emoji | Syntax |
-|----- |-|
-| Smile   :smile: |
+|----- |---|
+| Smile |  :smile: |
 | wink | :wink: |
 | Laugh | :rofl: |
 
